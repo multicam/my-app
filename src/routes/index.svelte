@@ -7,5 +7,11 @@
     events = await getEvents()
   })
 </script>
-<h1>Welcome to The Moon</h1>
+<style>
+    * {
+        font-family: monospace;
+        font-size: 12px;
+    }
+</style>
+<strong>Welcome to The Moon</strong>
 <p><a href="https://kit.svelte.dev/docs/introduction" target="_blank">kit.svelte.dev</a> Doc here</p>
